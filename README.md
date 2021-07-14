@@ -1,6 +1,5 @@
-### Hi there 👋
 
-## Hello World!
+## Hello World!👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erick-vergara-tito-265005158/)
 [<img src="https://img.shields.io/github/followers/airomerick98?label=follow&style=social" height="22" title="Follow me" />](https://github.com/airomerick98) 
@@ -21,7 +20,7 @@ My name is **Erick Vergara**, I'm 23 years old
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
-:star: From [LeandraOliveiraS](https://github.com/airomerick98)
+:star: From [ErickVergara](https://github.com/airomerick98)
 
 
 <!--
